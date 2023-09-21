@@ -8,6 +8,8 @@
     "start": "next start",
     "lint": "eslint . --ext .tsx,.ts",
     "lint:fix": "eslint . --ext .tsx,.ts --fix",
+    "check-format": "prettier --check .",
+    "format": "prettier --write .",
     "prepare": "husky install"
   },
   "dependencies": {

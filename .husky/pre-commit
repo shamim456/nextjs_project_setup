@@ -3,3 +3,6 @@
 
 npx lint-staged
 npm run lint
+npm run check-format
+npm run format
+npm run lint:fix

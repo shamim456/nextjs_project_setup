@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 export default function Page(): React.JSX.Element {
   return (
@@ -63,5 +63,5 @@ export default function Page(): React.JSX.Element {
       <h1>Hello, Next.js!</h1>
       <h1>Hello, Next.js!</h1>
     </div>
-  )
+  );
 }

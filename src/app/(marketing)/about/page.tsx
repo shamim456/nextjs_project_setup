@@ -1,6 +1,6 @@
 import React from 'react';
 
-const About = (): React.JSX.Element => {
+const About = () => {
   return (
     <div>
       <p>About page</p>
